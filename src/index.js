@@ -75,7 +75,3 @@ function retrievePosition(position) {
 
   axios.get(apiUrl).then(showTemperature);
 }
-
-
-
-
